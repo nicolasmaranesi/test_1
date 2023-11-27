@@ -1,0 +1,10 @@
+# Framework evidence
+.report/
+.Evidences/
+
+
+# IntelliJ
+*.iml
+.idea/
+target/
+
